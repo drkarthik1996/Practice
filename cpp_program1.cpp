@@ -16,5 +16,6 @@ int main()
         }
         cout << "\n";
     }
+    system("Pause");
     return 0;
 }
