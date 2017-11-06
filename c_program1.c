@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
     int i, j, rows;
@@ -14,5 +15,6 @@ int main()
         }
         printf("\n");
     }
+    system("Pause");
     return 0;
 }
