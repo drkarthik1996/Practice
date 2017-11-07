@@ -3,7 +3,7 @@
 int main()
 {
     int i, j, rows;
-
+    pribtf("-------C-Program--------\n");
     printf("Enter number of rows: ");
     scanf("%d",&rows);
     //rows = 9;
