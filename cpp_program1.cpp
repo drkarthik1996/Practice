@@ -5,7 +5,7 @@ int main()
 {
     int rows;
     cout << "\n\n-------C++ Program without Commandline Arguments--------\n\n";
-    cout << "Enter number of rows: ";
+    cout << "Enter number of rows: \n";
     cin >> rows;
 
     for(int i = 1; i <= rows; ++i)
