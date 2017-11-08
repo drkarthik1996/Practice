@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
     int i, j, rows;
-	
+    cout << "\n-------C++ Program with Commandline Arguments--------\n" << endl;
     rows = atoi(argv[1]);
     printf("Number of rows : %d\n",rows);
 
