@@ -3,7 +3,7 @@
 int main()
 {
     int i, j, rows;
-    cout << "\n\n-------C Program without Commandline Arguments--------\n\n";
+    printf("\n\n-------C Program without Commandline Arguments--------\n\n");
     printf("Enter number of rows: ");
     scanf("%d",&rows);
     //rows = 9;
